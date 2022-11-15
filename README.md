@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://isoyecodes.github.io/Stats-preview-card-component-Challange/)
+- Solution URL: [My Solution](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62/hub/stats-preview-card-componet-using-css-grid-and-flex-3eYC6trnDm)
+- Live Site URL: [My Live site](https://isoyecodes.github.io/Stats-preview-card-component-Challange/)
 
 ## My process
 
